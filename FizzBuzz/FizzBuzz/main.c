@@ -2,7 +2,7 @@
 //  main.c
 //  FizzBuzz
 //
-//  Created by Owner1 on 2017-03-14.
+//  Created by Adam Felix on 2017-03-14.
 //  Copyright © 2017 Adam Felix. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  main.c
 //  Two Doors
 //
-//  Created by Owner1 on 2017-03-15.
+//  Created by Adam Felix on 2017-03-15.
 //  Copyright © 2017 Adam Felix. All rights reserved.
 //
 
